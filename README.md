@@ -1,6 +1,4 @@
 # zenn-articles
-My Openclaw zenn-articles
-# zenn-articles
 
 mizutamaritech のZenn記事管理リポジトリです。
 
