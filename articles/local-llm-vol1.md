@@ -2,7 +2,7 @@
 title: "Openclaw体験記 vol.1 "
 emoji: "🐾"
 type: "idea"
-topics: ["ローカルLLM","AI", "初心者", "Openclaw"]
+topics: ["AI", "初心者", "Openclaw"]
 published: false
 ---
 
