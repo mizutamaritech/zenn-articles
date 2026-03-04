@@ -1,5 +1,5 @@
 ---
-title: "Openclawに手を出した話 vol.2 — 3つの壁と、動いた瞬間"
+title: "Openclaw体験記 vol.2 — 3つの壁と、動いた瞬間"
 emoji: "🐾"
 type: "idea"
 topics: ["ローカルLLM", "Docker", "WSL2", "AI", "Openclaw", "初心者"]
