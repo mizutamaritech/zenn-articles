@@ -1,5 +1,5 @@
 ---
-title: "Openclawに手を出した話 vol.1 "
+title: "Openclaw体験記 vol.1 "
 emoji: "🐾"
 type: "idea"
 topics: ["ローカルLLM","AI", "初心者", "Openclaw"]
