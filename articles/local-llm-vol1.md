@@ -3,7 +3,7 @@ title: "Openclaw体験記 vol.1 "
 emoji: "🐾"
 type: "idea"
 topics: ["AI", "初心者", "Openclaw"]
-published: false
+published: true
 ---
 
 まずセキュリティに100％はないを念頭において
