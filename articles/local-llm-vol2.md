@@ -3,7 +3,7 @@ title: "Openclaw体験記 vol.2 — 3つの壁と、動いた瞬間"
 emoji: "🐾"
 type: "idea"
 topics: ["Docker", "WSL2", "AI", "Openclaw", "初心者"]
-published: false
+published: true
 ---
 
 :::message
