@@ -3,7 +3,7 @@ title: "Openclaw体験記 vol.3 — AIが書いた記事を、世に出すまで
 emoji: "🐾"
 type: "idea"
 topics: ["Zenn", "GitHub", "AI", "Openclaw"]
-published: false
+published: true
 ---
 
 :::message
