@@ -33,7 +33,7 @@ ollama serve
 
 エラーメッセージが出ない。カーソルが点滅したまま、何も起きない。
 
-CUDA初期化でハングしていた。v0.17.7で試して、v0.18.0に上げて試した。どちらも同じだった。
+CUDA初期化でハングしていた。0.17.7で試して、0.18.0に上げて試した。どちらも同じだった。
 
 エラーが出ないというのをそのままAIに丸投げ
 
@@ -52,7 +52,7 @@ AIに調べてもらっていたらDockerでOllamaを動かす方法が出てき
 - Docker Desktop（WSL2統合を有効にしておく）
 - NVIDIA Container Toolkit
 
-NVIDIA Container Toolkitのインストールは、Dockerの公式aptリポジトリ経由が確実だ。ここで詰まる人が多いらしいのでそのまま書いておく。
+NVIDIA Container Toolkitのインストールは、NVIDIAの公式aptリポジトリ経由が確実だ。ここで詰まる人が多いらしいのでそのまま書いておく。
 ```bash
 curl -fsSL https://nvidia.github.io/libnvidia-container/gpgkey | sudo gpg --dearmor -o /usr/share/keyrings/nvidia-container-toolkit-keyring.gpg
 curl -s -L https://nvidia.github.io/libnvidia-container/stable/deb/nvidia-container-toolkit.list | \
@@ -126,7 +126,7 @@ sudo docker exec -it ollama ollama run qwen2.5:7b
 **2. `--gpus all` を忘れるとCPU動作になる**
 動いているように見えて、ただ遅いだけ。気づきにくい。
 
-**3. NVIDIA Container ToolkitはDockerの公式aptから入れる**
+**3. NVIDIA Container ToolkitはNVIDIAの公式aptから入れる**
 Ubuntu標準のaptから入れると古いバージョンが来てうまく動かないことがある。
 
 ---
