@@ -3,7 +3,7 @@ title: "Openclaw体験記 vol.4 — WSL2でOllamaを動かすまでの道"
 emoji: "🦙"
 type: "idea"
 topics: ["Ollama", "Docker", "WSL2", "GPU", "AI"]
-published: false
+published: ture
 ---
 
 :::message
