@@ -8,7 +8,7 @@ topics:
   - LLM
   - AI
   - プロンプト
-published:True
+published: True
 ---
 
 :::message
