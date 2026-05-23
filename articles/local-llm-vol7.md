@@ -46,9 +46,9 @@ Windowsを再起動するたびにWSL2も止まる。ボットも止まる。そ
 
 ボット別に整理するとこうなる。
 
-grok-4.3 → Mac miniで再構築、Docker起動。問題なし。
+grok → Mac miniで再構築、Docker起動。問題なし。
 
-gpt-5-mini → Mac miniで再構築。SOUL.mdとAGENTS.mdを設置し直した。
+gpt → Mac miniで再構築。SOUL.mdとAGENTS.mdを設置し直した。
 
 Ollama→ **方針を変えた。** OpenClawで動かすのをやめ、Pythonスクリプトに切り替えた。詳しくは後述する。
 
