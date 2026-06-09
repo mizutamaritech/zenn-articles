@@ -10,3 +10,4 @@ mizutamaritech のZenn記事管理リポジトリです。
 - [OpenClow体験記 Vol.5](articles/local-llm-vol5.md)  
 - [OpenClow体験記 Vol.6](articles/local-llm-vol6.md)  
 - [AI体験記 Vol.7](articles/local-llm-vol7.md)
+- [AI体験記 Vol.8](articles/local-llm-vol8.md)
