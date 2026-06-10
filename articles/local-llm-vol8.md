@@ -8,7 +8,7 @@ topics:
   - SSH
   - network
   - Docker
-published: ture
+published: true
 ---
 
 :::message
