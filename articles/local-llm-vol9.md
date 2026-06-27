@@ -2,7 +2,7 @@
 title: "AI体験記 vol.9 — 優れたAIに頼り切る前に、土台を作っておく"
 emoji: "🦴"
 type: "idea"
-topics: ["AI", "ClaudeCode", "設計", "Openclaw", "LLM"]
+topics: ["AI", "ClaudeCode", "設計", "LLM"]
 published: true
 ---
 
