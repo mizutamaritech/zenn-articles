@@ -3,7 +3,7 @@ title: "AI体験記 vol.10 — ルールを書いても、AIは平気で破る"
 emoji: "🧱"
 type: "idea"
 topics: ["AI", "ClaudeCode", "設計",  "LLM"]
-published: false
+published: true
 ---
 
 :::message
