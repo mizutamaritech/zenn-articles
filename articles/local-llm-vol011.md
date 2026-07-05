@@ -3,7 +3,7 @@ title: "AI体験記 vol.11 — AIの失敗を、二度と起きない形に変�
 emoji: "🔧"
 type: "idea"
 topics: ["AI", "ClaudeCode", "設計", "LLM"]
-published: false
+published: true
 ---
 
 :::message
