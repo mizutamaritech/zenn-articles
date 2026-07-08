@@ -1,5 +1,5 @@
 ---
-title: "AI体験記 vol.12 — 賢いAIほど、堂々と間違える"
+title: "AI体験記 vol.12 — AIは堂々と間違える"
 emoji: "🗺️"
 type: "idea"
 topics: ["AI", "ClaudeCode", "設計", "LLM"]
