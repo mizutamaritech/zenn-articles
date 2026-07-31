@@ -3,7 +3,7 @@ title: "AI体験記 vol.15 — ファイルの中に、AIへの命令が仕込�
 emoji: "🕵️"
 type: "idea"
 topics: ["AI", "ClaudeCode", "セキュリティ", "LLM"]
-published: false
+published: true
 ---
 
 :::message
