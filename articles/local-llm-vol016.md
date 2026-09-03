@@ -3,7 +3,7 @@ title: "AI体験記 vol.16 — 洞窟に入ったら、味方が嘘をついた"
 emoji: "⚔️"
 type: "idea"
 topics: ["AI", "ClaudeCode", "LLM", "設計"]
-published: false
+published: true
 ---
 
 :::message
