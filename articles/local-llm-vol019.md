@@ -3,7 +3,7 @@ title: "AI体験記 Vol.19：プライバシーが欲しくて・・・（玄関
 emoji: "🏯"
 type: "idea"
 topics: ["ai", "localllm", "security", "macos", "privacy"]
-published: false
+published: true
 ---
 
 ## プライバシーが欲しい
