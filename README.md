@@ -21,3 +21,4 @@ mizutamaritech のZenn記事管理リポジトリです。
 - [AI体験記 Vol.16](articles/local-llm-vol016.md)  
 - [AI体験記 Vol.17](articles/local-llm-vol017.md)  
 - [AI体験記 Vol.18](articles/local-llm-vol018.md)  
+- [AI体験記 Vol.19](articles/local-llm-vol019.md) 
