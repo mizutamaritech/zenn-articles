@@ -3,7 +3,7 @@ title: "AI体験記 vol.18 — 誰が倉庫を回していたのか"
 emoji: "⚙️"
 type: "idea"
 topics: ["AI", "ClaudeCode", "LLM", "設計"]
-published: false
+published: ture
 ---
 
 :::message
@@ -174,7 +174,7 @@ vol.16で、ようやく洞窟に入った。殴られて、対策して、ま�
 
 ここまで18回、お付き合いありがとうございました。
 
-Code is Lowというのを思い知ったここ半年でした。
+Code is Lawというのを思い知ったここ半年でした。
 
 ---
 
