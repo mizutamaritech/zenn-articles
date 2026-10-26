@@ -3,7 +3,7 @@ title: "AI体験記 vol.18 — 誰が倉庫を回していたのか"
 emoji: "⚙️"
 type: "idea"
 topics: ["AI", "ClaudeCode", "LLM", "設計"]
-published: ture
+published: true
 ---
 
 :::message
