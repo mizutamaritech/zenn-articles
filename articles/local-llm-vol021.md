@@ -3,7 +3,7 @@ title: "AI体験記 Vol.21：プライバシーが欲しくて・・・（金庫
 emoji: "🏯"
 type: "idea"
 topics: ["ai", "localllm", "security", "macos", "privacy"]
-published: false
+published: true
 ---
 
 ## 前回のあらすじ
